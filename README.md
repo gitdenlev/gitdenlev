@@ -1,4 +1,4 @@
-![Your Name](https://i.ibb.co/nbcnTsR/me.png)
+![Your Name](https://i.ibb.co/1dTg6kn/my-avatar.png)
 
 # Denis Levchenko
 
