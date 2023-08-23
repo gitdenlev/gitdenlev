@@ -1,4 +1,3 @@
-![Your Name](https://i.ibb.co/1dTg6kn/my-avatar.png)
 # Denis Levchenko <br>Frontend Developer
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Levchenko-blue)](https://www.linkedin.com/in/denis-levchenko-65a067264/)
