@@ -1,5 +1,5 @@
 # 😊 About me
-I am beginner Frontend Developear continuous learner, always eager to expand my knowledge and explore new horizons. I embrace challenges and thrive in environments that foster growth and development. I am passionate about learning and helping others discover their own potential.
+I am a beginner Frontend Developer, a continuous learner always eager to expand my knowledge and explore new horizons. I embrace challenges and thrive in environments that foster growth and development. I am passionate about learning and helping others discover their own potential
 # 💻 Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,git,github,nodejs)](https://skillicons.dev)
 # ✉️ Contact me
