@@ -4,6 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-levchenkoden02@gmail.com-red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 [![GitHub](https://img.shields.io/badge/Github-gitdenlev-black)](https://github.com/gitdenlev)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,tailwind,git,nodejs,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,git,github,nodejs)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
