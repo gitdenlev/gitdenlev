@@ -7,5 +7,4 @@ I am beginner Frontend Developear continuous learner, always eager to expand my 
 <span style="vertical-align: middle; font-size: 30px; font-weight: bold">levchenkoden02@gmail.com</span>
 <br>
 <br>
-<img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="Linkedin Icon" style="vertical-align: middle;">
-<a href="https://www.linkedin.com/in/denis-levchenko-65a067264/"><span style="vertical-align: middle; font-size: 30px; font-weight: bold">Denys Levchenko</span></a>
+<img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="Linkedin Icon" style="vertical-align: middle;"><a href="https://www.linkedin.com/in/denis-levchenko-65a067264/"><span style="vertical-align: middle; font-size: 30px; font-weight: bold">Denys Levchenko</span></a>
