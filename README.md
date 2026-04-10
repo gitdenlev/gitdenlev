@@ -1,65 +1,85 @@
-# Hi there, I'm Denys Levchenko 👋
+# Denys Levchenko
 
-## 👨‍💻 About Me
+A personal portfolio website showcasing my experience, projects, and technical stack.
 
-I'm an aspiring Frontend Developer passionate about creating engaging web experiences. My journey in web development is driven by continuous learning and a desire to push boundaries. I thrive on challenges and am always eager to expand my knowledge in the ever-evolving tech landscape.
+<div align="center">
 
-## 🚀 What I Do
-
-- Building responsive and user-friendly web applications
-- Learning and implementing modern frontend technologies
-- Contributing to the developer community
-- Constantly improving my coding skills
-
-## 💻 Tech Stack
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
-## 📈 GitHub Stats
+## Overview
 
-<div align="center" style="margin: 20px 0;">
+I'm a Frontend Developer with **6 months of commercial experience** and **4 years of programming practice**. I build product interfaces, connect them to APIs, and maintain clean, reusable codebases. My strongest stack is **React** and **Next.js**, with practical experience in backend development when projects require it.
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitdenlev&theme=dark)](https://git.io/streak-stats)
+## Tech Stack
 
-  ![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdenlev&show_icons=true&theme=dark)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdenlev&layout=compact&theme=dark)](https://github.com/gitdenlev/github-readme-stats)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</div>
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 🌱 Currently Learning
+## Selected Projects
 
-- Advanced Vue.js patterns
-- Backend development with Node.js
-- Modern JavaScript features
-- Web performance optimization
+### Baza Cloud Storage
+A Google Drive-like storage platform built with MinIO and metadata-based file management.
 
-## 📫 How to Reach Me
+**Type:** Pet Project | **Role:** Fullstack Developer
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levchenkoden02@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-levchenko-65a067264/)
-
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you're looking for a developer to add to your team or if you just want to connect!
+**Tech:** NestJS, MinIO, PrismaORM, PostgreSQL, Next.js, TailwindCSS, Docker
 
 ---
 
-⭐️ From [DenysLevchenko](https://github.com/DenysLevchenko)
+### Healink
+A commercial CRM system for a clinic in the United States, created for administrators and doctors.
+
+**Type:** Commercial Project | **Role:** Fullstack Developer in a team
+
+**Tech:** NestJS, TypeORM, Next.js, TailwindCSS, Docker, Microservices, TCP
+
+---
+
+### Health360
+A commercial mental health platform helping Ukrainians find psychologists by needs and book consultations.
+
+**Type:** Commercial Project | **Role:** Frontend Developer in a team
+
+**Tech:** Nuxt.js, TypeScript, TailwindCSS, Pinia
+
+---
+
+### Website Scrapper
+A product search and comparison platform for top Ukrainian marketplaces.
+
+**Type:** Pet Project | **Role:** Fullstack Developer
+
+**Tech:** NestJS, PrismaORM, Next.js, Docker, TanStack Query, TailwindCSS
+
+## Contact
+
+<div align="left">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levchenkoden02@gmail.com)
+</div>
